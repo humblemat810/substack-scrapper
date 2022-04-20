@@ -280,7 +280,9 @@ paid
 False                 5.015038
 True                 19.415254
 ```
+
 ![](/./img/proportion_of_subscription_weblogger_free_vs_paid.png)
+
 We see substantial difference between the number of days. Free subscriptions produces an article every 5 days while paid ones takes 19.4 days on average to release an article. One of the possible reason is that, the paid ones are more polish for commercial grade while the free ones are shallower (comparatively insights).
 
 ```python
